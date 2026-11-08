@@ -1,1 +1,85 @@
+/* GENERAL WEBSITE *?
+body{
+margin: 0;
+padding: 500px;
+}
+/* BACKGROUND */
+.hero {
+  margin: 0;
+  font-family: Arial;
+  background-color: linear-gradient( right to, blue, yellow, red);
+  color:b black;
+}
+/* NAVIGATION */
+nav{ 
+  background-color: green;
+  padding: 20px;
+  text-align: center;
+}
+nav a{
+  color: red;
+  text-decoration: none;
+  padding: 15px;
+}
+nav a:hover {
+  color: yellow;
+}
+/* HERO */
+.hero {
+  background-color: lightgreen;
+  color: black
+  padding: 25px 35px;
+  margin: 20px;
+  border: 20px 25px 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+/* CONTENT BOX */
+.content-box {
+  background-color: red;
+  color: black;
+  padding: 22px;
+  border-radius: 20px;
+}
+/* SERVICES */
+.page-title {
+  text-align: center;
+  margin-top: 30px;
+}
+.container {
+  display: felx;
+  justify-content: center;
+  gap: 20px:
+  flex-wrap: wrap;
+  padding: 20px;
+} 
 
+.card {
+    background-color: white;
+    color: black;
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 220px;
+    box-sizing: border-box;
+}
+
+.card h2 {
+    color: darkblue;
+}
+
+/* FOOTER */
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+  
+  
+  
+  
+  
+
+  
+  
