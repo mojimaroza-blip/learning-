@@ -48,10 +48,10 @@ nav a:hover {
 }
 .container {
   display: felx;
+  padding: 20px;
   justify-content: center;
   gap: 20px:
   flex-wrap: wrap;
-  padding: 20px;
 } 
 
 .card {
@@ -70,7 +70,7 @@ nav a:hover {
 
 /* FOOTER */
 footer {
-    background-color: black;
+    background-color: blue;
     color: white;
     text-align: center;
     padding: 20px;
