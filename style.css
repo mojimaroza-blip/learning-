@@ -47,7 +47,7 @@ nav a:hover {
   margin-top: 30px;
 }
 .container {
-  display: felx;
+  display: flexx;
   padding: 20px;
   justify-content: center;
   gap: 20px:
@@ -55,7 +55,7 @@ nav a:hover {
 } 
 
 .card {
-    background-color: white;
+    background-color: yellow;
     color: black;
     padding: 25px;
     border: 2px solid black;
