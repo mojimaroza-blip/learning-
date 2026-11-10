@@ -3,8 +3,8 @@ body{
 margin: 0;
 padding: 500px;
 }
-/* BACKGROUND */
-.hero {
+
+.body {
   margin: 0;
   font-family: Arial;
   background-color: linear-gradient( right to, blue, yellow, red);
